@@ -6,8 +6,8 @@
   "scope": "/Vendedor-a-Campo/",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#f2f2f3",
-  "theme_color": "#2c4a63",
+  "background_color": "#ffffff",
+  "theme_color": "#002a56",
   "icons": [
     {
       "src": "icon-192.png",

@@ -1,6 +1,6 @@
 // Service worker — Vendedor a Campo (Agroterra Posventa)
 // Red primero; el cache es respaldo para cuando no hay señal en el campo.
-var CACHE = 'vendedor-a-campo-v2';
+var CACHE = 'vendedor-a-campo-v3';
 
 self.addEventListener('install', function () { self.skipWaiting(); });
 
